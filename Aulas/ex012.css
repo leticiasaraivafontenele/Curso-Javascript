@@ -61,4 +61,10 @@ button{
     width: 300px;
     
 }
+.btn_lixeira{
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
 

@@ -1,3 +1,6 @@
+//adicionando elementos
+
+
 const caixa1 = document.querySelector("#caixa1")
 //const btn_c1 = [...document.querySelector(".curso")]
 
@@ -8,3 +11,8 @@ novoelemento.setAttribute("class", "curso")
 novoelemento.innerHTML = "qualquer coisa"
 
 caixa1.appendChild(novoelemento)
+
+
+
+
+//removendo elementos
