@@ -16,3 +16,4 @@ caixa1.appendChild(novoelemento)
 
 
 //removendo elementos
+caixa1.remove()
